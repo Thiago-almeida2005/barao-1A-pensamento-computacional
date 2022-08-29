@@ -10,6 +10,3 @@ Desenvilvimento de site nas linguagens HTML e CSS
 
 Estudante: Thiago Almeida Silva nº *32*
 
-
-Estudante: Lucas Carvalho Miscevski nº 15
-
